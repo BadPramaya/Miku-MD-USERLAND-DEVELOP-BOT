@@ -234,3 +234,70 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 </p>
+
+
+
+
+--------------- Copyright 2022 Fantox Gaming ------------
+
+
+sudo apt update
+sudo apt upgrade
+sudo apt install bash
+sudo apt-get install libwebp-dev
+sudo apt install git
+sudo apt install nodejs -y
+sudo apt install ffmpeg -y
+sudo apt install wget
+sudo apt install npm
+sudo apt install imagemagick
+
+
+-----------👇👇👇 Here you can use your bot's gitHub link 👇👇👇--------- 
+
+
+git clone https://github.com/FantoX001/Miku-MD
+
+
+-----------------------------------------------------------------------------
+
+ls
+cd Miku-MD
+npm i
+
+
+cd
+npm install --global yarn
+yarn add sharp
+sudo apt install curl
+
+
+curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+
+
+sudo apt-get install -y nodejs
+yarn add sharp
+cd Miku-MD
+npm i
+npm start
+
+
+-----------------To stop bot------------------
+
+ctrl + c
+
+-----------------To start bot ( While you are insige Miku-MD folder )------------------
+
+npm start
+
+-------------Start bot after UserLand session is cleared------------------
+
+cd Miku-MD
+npm start
+
+------------ What to do if you logged out from the WhatsApp linked device section and want to get new qr to login --------------
+
+cd Miku-MD
+rm session.json
+npm start
+
