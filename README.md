@@ -242,14 +242,23 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 sudo apt update
+
 sudo apt upgrade
+
 sudo apt install bash
+
 sudo apt-get install libwebp-dev
+
 sudo apt install git
+
 sudo apt install nodejs -y
+
 sudo apt install ffmpeg -y
+
 sudo apt install wget
+
 sudo apt install npm
+
 sudo apt install imagemagick
 
 
