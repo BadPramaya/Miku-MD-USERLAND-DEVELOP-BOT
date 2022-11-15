@@ -271,24 +271,35 @@ git clone https://github.com/FantoX001/Miku-MD
 -----------------------------------------------------------------------------
 
 ls
+
 cd Miku-MD
+
 npm i
 
 
 cd
+
 npm install --global yarn
+
 yarn add sharp
+
 sudo apt install curl
+
 
 
 curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 
 
 sudo apt-get install -y nodejs
+
 yarn add sharp
+
 cd Miku-MD
+
 npm i
+
 npm start
+
 
 
 -----------------To stop bot------------------
@@ -302,11 +313,37 @@ npm start
 -------------Start bot after UserLand session is cleared------------------
 
 cd Miku-MD
+
 npm start
+
 
 ------------ What to do if you logged out from the WhatsApp linked device section and want to get new qr to login --------------
 
 cd Miku-MD
+
 rm session.json
+
 npm start
+
+
+-------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxx-------------------------
+
+
+
+It's my request to follow me on GitHub and subscribe my YouTube channed if you like my hard work and dedication.
+
+My Github: https://github.com/FantoX001
+My channel: https://youtube.com/channel/UCnSwAOi4t5mxH62gn06ExPQ
+
+
+
+
+
+
+
+
+-------------------------------------( Thank You )-----------------------------------------------
+
+
+
 
